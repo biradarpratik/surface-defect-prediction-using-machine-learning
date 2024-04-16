@@ -27,6 +27,10 @@ Install Surface-defect-prediction-using-machine-learning and run locally
 ```bash
   git clone https://github.com/biradarpratik/surface-defect-prediction-using-machine-learning.git
 ```
+```bash
+  cd surface-defect-prediction-using-machine-learning
+```
+
 Download the dataset from the below link
 
 https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
