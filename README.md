@@ -10,7 +10,7 @@ This project introduces an innovative approach to detecting and categorizing def
 
 - [@Pratik Biradar](https://www.github.com/biradarpratik)
 - [@Gaurav Avghade](https://www.github.com/gauravavghade)
-- [Himanshu Bendale]
+- [@Himanshu Bendale](https://www.github.com/HimanshuBendale)
 
 
 
